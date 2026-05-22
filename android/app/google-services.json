@@ -1,0 +1,170 @@
+{
+  "project_info": {
+    "project_number": "597397485046",
+    "project_id": "neoshare-e2fa7",
+    "storage_bucket": "neoshare-e2fa7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597397485046:android:bf79598b5b30e8d4b283d7",
+        "android_client_info": {
+          "package_name": "com.example.heuristech_builder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597397485046-g1grdicptr1llte452gofvkq5g7qb2j4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.heuristech_builder",
+            "certificate_hash": "9d79c0e4acb8e0c6a95c654c664e55de3302c8bc"
+          }
+        },
+        {
+          "client_id": "597397485046-ar6qs61aj869r97rtnd13sbf6hf9eki4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLbM6SwD_fKVqOLOeuuVnZadPTkKyp-I8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597397485046-ar6qs61aj869r97rtnd13sbf6hf9eki4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "597397485046-2ltbm2339qqv1o1bvsupmp2gg02bsast.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.heuristechBuilder"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597397485046:android:7d5366d1405878f1b283d7",
+        "android_client_info": {
+          "package_name": "com.example.neoshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597397485046-ar6qs61aj869r97rtnd13sbf6hf9eki4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLbM6SwD_fKVqOLOeuuVnZadPTkKyp-I8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597397485046-ar6qs61aj869r97rtnd13sbf6hf9eki4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "597397485046-2ltbm2339qqv1o1bvsupmp2gg02bsast.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.heuristechBuilder"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597397485046:android:2c7508b9097c4e9db283d7",
+        "android_client_info": {
+          "package_name": "com.example.sankar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597397485046-d4b5bsfstn1g7fo60sijl43i5os056e9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sankar",
+            "certificate_hash": "9d79c0e4acb8e0c6a95c654c664e55de3302c8bc"
+          }
+        },
+        {
+          "client_id": "597397485046-ar6qs61aj869r97rtnd13sbf6hf9eki4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLbM6SwD_fKVqOLOeuuVnZadPTkKyp-I8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597397485046-ar6qs61aj869r97rtnd13sbf6hf9eki4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "597397485046-2ltbm2339qqv1o1bvsupmp2gg02bsast.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.heuristechBuilder"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597397485046:android:f276cf15c4e7c99fb283d7",
+        "android_client_info": {
+          "package_name": "com.example.tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597397485046-ar6qs61aj869r97rtnd13sbf6hf9eki4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLbM6SwD_fKVqOLOeuuVnZadPTkKyp-I8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597397485046-ar6qs61aj869r97rtnd13sbf6hf9eki4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "597397485046-2ltbm2339qqv1o1bvsupmp2gg02bsast.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.heuristechBuilder"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
