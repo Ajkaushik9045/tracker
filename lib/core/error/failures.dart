@@ -14,3 +14,8 @@ class ServerFailure extends Failure {
 class AuthCancelledFailure extends Failure {
   const AuthCancelledFailure([super.message = 'Sign-in was cancelled.']);
 }
+
+/// Returned when there is no internet connection or a network timeout.
+class NetworkFailure extends Failure {
+  const NetworkFailure([super.message = 'Network error. Please check your internet connection.']);
+}

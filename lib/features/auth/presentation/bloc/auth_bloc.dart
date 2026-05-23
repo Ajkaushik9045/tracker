@@ -22,15 +22,11 @@ class AuthBloc extends Bloc<AuthBlocEvent, AuthState> {
   StreamSubscription<UserEntity?>? _authStateSubscription;
 
   AuthBloc({
-    required SignInWithGoogle signIn,
-    required SignOut signOut,
-    required FirebaseAuthDatasource datasource,
-    required LocalStorageService localStorage,
-  })  : _signIn = signIn,
-        _signOut = signOut,
-        _datasource = datasource,
-        _localStorage = localStorage,
-        super(AuthInitial()) {
+    required this._signIn,
+    required this._signOut,
+    required this._datasource,
+    required this._localStorage,
+  }) : super(AuthInitial()) {
     on<SignInRequested>(_onSignIn);
     on<SignOutRequested>(_onSignOut);
     on<AuthCheckRequested>(_onAuthCheck);
